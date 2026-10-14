@@ -1,0 +1,29 @@
+{
+  "brand": "JAGO vairavimo mokykla",
+  "officialPage": "https://www.vairuoti.lt/",
+  "retrievedDate": "2026-09-06",
+  "method": "Original PNG bytes downloaded from the logo img and rel=icon URLs present in the official homepage HTML. No generation, redrawing, recoloring, cropping or re-encoding.",
+  "existingRepositoryAsset": "/klientai/vairuoti-lt.webp",
+  "assets": [
+    {
+      "path": "/logos/jago-testimonial.png",
+      "source": "https://www.vairuoti.lt/wp-content/uploads/2024/09/logo.png",
+      "width": 1600,
+      "height": 469,
+      "bytes": 16985,
+      "hasAlpha": true,
+      "sha256": "8d5a829c3f68de53e69df75f605d4ca37882b42b68bd939e87c74b749ee596ef",
+      "usage": "Full official white/red wordmark and slogan; requires a dark background. Keep original aspect ratio."
+    },
+    {
+      "path": "/logos/jago-testimonial-icon.png",
+      "source": "https://www.vairuoti.lt/wp-content/uploads/2024/09/cropped-a-raide-192x192.png",
+      "width": 192,
+      "height": 192,
+      "bytes": 1066,
+      "hasAlpha": true,
+      "sha256": "eb5d5f6bc6c595cafd870902a10150e138f0f99d99469d06dd46df17b8f64a8f",
+      "usage": "Official red A symbol, suitable for a compact testimonial logo avatar with padding. No invented icon or crop."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "kind": "prerendered-gaze-atlas",
+  "columns": 6,
+  "rows": 4,
+  "frameCount": 23,
+  "neutralFrame": 12,
+  "leftFrame": 0,
+  "rightFrame": 22,
+  "desktop": {
+    "src": "/mascot/marketrats-bordo-film-v2-desktop.webp",
+    "frameWidth": 896,
+    "frameHeight": 896,
+    "width": 5376,
+    "height": 3584,
+    "decodedMiB": 73.5,
+    "bytes": 1863988,
+    "sha256": "b263ab4c9fb1f1b8989e084615a49804a04ec7f044cf3f67fc43215294ca139e"
+  },
+  "mobile": {
+    "src": "/mascot/marketrats-bordo-film-v2-mobile.webp",
+    "frameWidth": 512,
+    "frameHeight": 512,
+    "width": 3072,
+    "height": 2048,
+    "decodedMiB": 24,
+    "bytes": 817360,
+    "sha256": "8338ff9cbbbaff06d4a92edc496b3408f679b9b5ef98149385a6cdfde09242ef"
+  },
+  "poster": {
+    "src": "/mascot/marketrats-bordo-film-v2-poster.png",
+    "bytes": 923426,
+    "sha256": "9ab8f410b2a4a1d6c79c36f7d0c4823a2b22768b588063e6d9a36f43e1857242"
+  },
+  "segments": [
+    {
+      "start": 8,
+      "end": 31,
+      "reverse": true
+    }
+  ],
+  "sourceFrameIndices": [
+    30,
+    29,
+    28,
+    27,
+    26,
+    25,
+    24,
+    23,
+    22,
+    21,
+    20,
+    19,
+    18,
+    17,
+    16,
+    15,
+    14,
+    13,
+    12,
+    11,
+    10,
+    9,
+    8
+  ],
+  "crop": null,
+  "staticBody": {
+    "frame": 18,
+    "top": 420,
+    "bottom": 470,
+    "maxBodyByteDifferencesBeforeEncoding": 0,
+    "blend": "smoothstep in premultiplied RGBA",
+    "sourceCoordinateSystem": "uncropped video pixels"
+  },
+  "provenance": {
+    "source": ".cache/bordo-film-v1/source.mp4",
+    "sourceFile": {
+      "bytes": 5845117,
+      "sha256": "ef9cfeef1d3894d1c5dae8118c0693f871c03b7c7ea9117f0d4c8128a1b70f55"
+    },
+    "black": ".cache/bordo-film-v1/matte-black.mp4",
+    "blackFile": {
+      "bytes": 1157922,
+      "sha256": "b41ab2b2674543655bc2c163f6094ad3337e150b74a67b3cd0eb3214eaa3b1d1"
+    }
+  },
+  "sourceVideo": {
+    "width": 1440,
+    "height": 1440,
+    "frameCount": 121,
+    "duration": 5.0416667,
+    "fps": 23.999980800015358
+  },
+  "processing": {
+    "formula": "a=1-mean(sourceWhite-isolatedBlack)/255; RGB=original source when a=1, otherwise isolatedBlack/a",
+    "matteOptions": {
+      "alphaFloor": 4,
+      "alphaCeiling": 4,
+      "minWhiteCorner": 245,
+      "maxBlackCorner": 12,
+      "backgroundWhiteMin": 225,
+      "backgroundBlackMax": 8,
+      "whiteFringeBottom": 420
+    },
+    "alpha": "Approximate recovered matte; PNG/WebP contain an actual alpha channel.",
+    "frameOrder": "Manually configured; direction requires visual approval.",
+    "quality": 92,
+    "creditsSpent": 0,
+    "workDirectory": ".cache/bordo-film/build-bU0ea8"
+  },
+  "warnings": [
+    "Adjacent frame blending cannot repair inconsistent poses; review the selected poses and both contact sheets."
+  ]
+}

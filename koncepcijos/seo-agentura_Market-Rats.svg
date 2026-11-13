@@ -1,0 +1,85 @@
+<svg viewBox="0 0 360 500" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-linecap="round" stroke-linejoin="round">
+
+  <!-- UODEGA -->
+  <path d="M226 358 C298 344 344 384 338 438 C335 470 310 484 294 472 C310 469 318 458 319 436 C323 392 286 366 220 378 Z" fill="#fff"/>
+  <g fill="none" stroke="#111" stroke-width="4.2">
+   <path d="M224 359 C298 343 345 384 338 438 C335 471 309 485 293 472"/>
+   <path d="M299 470 C312 465 318 454 319 435 C324 391 287 365 221 377"/>
+  </g>
+
+  <!-- KOJOS -->
+  <g stroke="#111" stroke-width="40" fill="none"><path d="M160 366 L152 408 L150 440"/><path d="M202 366 L210 408 L212 440"/></g>
+  <g stroke="#fff" stroke-width="31" fill="none"><path d="M160 366 L152 408 L150 440"/><path d="M202 366 L210 408 L212 440"/></g>
+  <path d="M150 428 L110 452 L112 468 L176 468 L174 428 Z" fill="#fff" stroke="#111" stroke-width="4.5"/>
+  <path d="M212 428 L252 452 L250 468 L186 468 L188 428 Z" fill="#fff" stroke="#111" stroke-width="4.5"/>
+  <g stroke="#111" stroke-width="2.8" fill="none">
+   <path d="M128 456 L129 468"/><path d="M147 452 L147 468"/><path d="M215 452 L215 468"/><path d="M234 456 L233 468"/>
+  </g>
+
+  <!-- ZASTAI uz liemens -->
+  <g stroke="#111" stroke-width="36" fill="none"><path d="M142 280 L126 314"/><path d="M220 280 L236 314"/></g>
+  <g stroke="#fff" stroke-width="28" fill="none"><path d="M142 280 L126 314"/><path d="M220 280 L236 314"/></g>
+
+  <!-- LIEMUO -->
+  <path d="M154 250 C128 264 116 294 118 322 C120 348 128 368 142 382 L220 382 C234 368 242 348 244 322 C246 294 234 264 208 250 Z" fill="#fff"/>
+  <g fill="none" stroke="#111" stroke-width="5.5">
+   <path d="M160 246 C130 262 116 294 118 323"/>
+   <path d="M117 314 C119 349 128 369 143 384"/>
+   <path d="M202 246 C232 262 246 294 244 323"/>
+   <path d="M245 314 C243 349 234 369 219 384"/>
+   <path d="M146 382 L216 382"/>
+  </g>
+  <g fill="none" stroke="#9CA3AF" stroke-width="2.8">
+   <path d="M234 288 L220 300"/><path d="M239 308 L223 321"/><path d="M238 330 L223 342"/><path d="M232 350 L220 360"/>
+   <path d="M160 288 C151 318 153 350 166 376"/>
+  </g>
+
+  <!-- SUKRYZIUOTOS RANKOS: dvi beveik horizontalios dilbiu juostos -->
+  <g stroke="#111" stroke-width="34" fill="none"><path d="M150 330 L226 320"/></g>
+  <g stroke="#fff" stroke-width="26" fill="none"><path d="M150 330 L226 320"/></g>
+  <path d="M150 314 C134 312 126 320 126 331 C126 342 138 348 148 344 Z" fill="#fff" stroke="#111" stroke-width="4"/>
+  <g stroke="#111" stroke-width="34" fill="none"><path d="M212 296 L138 304"/></g>
+  <g stroke="#fff" stroke-width="26" fill="none"><path d="M212 296 L138 304"/></g>
+  <path d="M212 280 C228 278 236 286 236 297 C236 308 224 314 214 310 Z" fill="#fff" stroke="#111" stroke-width="4"/>
+  <g fill="none" stroke="#111" stroke-width="2.6">
+   <path d="M132 322 L124 320"/><path d="M131 332 L123 332"/><path d="M229 288 L237 286"/><path d="M230 298 L238 298"/>
+  </g>
+
+  <!-- ================= GALVA ================= -->
+  <g id="head">
+   <path d="M96 88 L126 94 L142 124 L131 158 L100 172 L70 158 L56 128 L68 96 Z" fill="#fff" stroke="#111" stroke-width="5"/>
+   <path d="M264 88 L234 94 L218 124 L229 158 L260 172 L290 158 L304 128 L292 96 Z" fill="#fff" stroke="#111" stroke-width="5"/>
+   <path d="M100 104 L122 110 L131 130 L122 152 L102 160 L82 151 L74 130 L83 110 Z" fill="#800020" stroke="#111" stroke-width="3"/>
+   <path d="M260 104 L238 110 L229 130 L238 152 L258 160 L278 151 L286 130 L277 110 Z" fill="#800020" stroke="#111" stroke-width="3"/>
+
+   <path d="M110 132 L117 194 L138 236 L162 262 L180 272 L198 262 L222 236 L243 194 L250 132 L229 100 L180 90 L131 100 Z" fill="#fff"/>
+   <g fill="none" stroke="#111" stroke-width="5.5">
+    <path d="M126 103 L180 89 L234 103 L251 135"/>
+    <path d="M250 128 L243 195 L221 237 L198 263 L180 273"/>
+    <path d="M181 273 L161 263 L138 237 L116 195 L109 128"/>
+   </g>
+
+   <path d="M146 206 C151 232 162 250 180 262 C198 250 209 232 214 206" fill="#fff" stroke="#111" stroke-width="3.4"/>
+   <path d="M164 233 Q180 225 196 233 Q193 256 180 261 Q167 256 164 233 Z" fill="#111" stroke="#111" stroke-width="3.4"/>
+   <path d="M170 259 L180 266 L190 259" fill="none" stroke="#111" stroke-width="3"/>
+
+   <g fill="none" stroke="#6B7280" stroke-width="2.6">
+    <path d="M160 236 C136 228 112 222 92 219"/><path d="M160 245 C136 244 112 244 91 245"/><path d="M163 253 C140 257 116 265 98 273"/>
+    <path d="M200 236 C224 228 248 222 268 219"/><path d="M200 245 C224 244 248 244 269 245"/><path d="M197 253 C220 257 244 265 262 273"/>
+   </g>
+
+   <g stroke="none">
+    <g fill="#111">
+     <path d="M96 160 h10 v-8 h62 v8 h10 v28 h-10 v8 h-62 v-8 h-10 z"/>
+     <path d="M182 160 h10 v-8 h62 v8 h10 v28 h-10 v8 h-62 v-8 h-10 z"/>
+     <rect x="168" y="166" width="14" height="12"/>
+    </g>
+    <g fill="#fff">
+     <rect x="116" y="160" width="10" height="10"/><rect x="126" y="170" width="10" height="10"/>
+     <rect x="202" y="160" width="10" height="10"/><rect x="212" y="170" width="10" height="10"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

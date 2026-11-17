@@ -1,0 +1,44 @@
+{
+  "columns": 8,
+  "rows": 7,
+  "frameCount": 53,
+  "neutralFrame": 23,
+  "leftFrame": 0,
+  "rightFrame": 52,
+  "desktop": {
+    "src": "/mascot/kibernetine-ziurke-zvilgsnis-v1_Market-Rats.webp",
+    "frameWidth": 512,
+    "frameHeight": 512,
+    "width": 4096,
+    "height": 3584
+  },
+  "mobile": {
+    "src": "/mascot/kibernetine-ziurke-zvilgsnis-mobile-v1_Market-Rats.webp",
+    "frameWidth": 384,
+    "frameHeight": 384,
+    "width": 3072,
+    "height": 2688
+  },
+  "segments": [
+    {
+      "path": "public/mascot/kibernetine-ziurke-headscan-alpha-v1_Market-Rats.webm",
+      "decoder": "libvpx-vp9",
+      "start": 15,
+      "end": 38,
+      "reverse": true
+    },
+    {
+      "path": "public/mascot/kibernetine-ziurke-headscan-alpha-v1_Market-Rats.webm",
+      "decoder": "libvpx-vp9",
+      "start": 0,
+      "end": 1
+    },
+    {
+      "path": "public/mascot/kibernetine-ziurke-headscan-right-alpha-v2_Market-Rats.webm",
+      "decoder": "libvpx-vp9",
+      "start": 22,
+      "end": 80,
+      "step": 2
+    }
+  ]
+}
